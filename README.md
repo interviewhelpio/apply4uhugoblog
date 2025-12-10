@@ -1,6 +1,4 @@
-# apply4uhugoblog
-
-undefined
+# apply4u
 
 This is a Hugo static site hosted on GitHub Pages.
 
