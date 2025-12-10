@@ -51,10 +51,10 @@ theme = []
   
   # Social links
   [params.socialIcons]
-    email = "mailto:your@email.com"
-    github = "https://github.com/yourusername"
-    twitter = "https://twitter.com/yourusername"
-    linkedin = "https://linkedin.com/in/yourusername"
+    email = "mailto:apply4u@hireteams.io"
+    github = "https://github.com/rsalota"
+    twitter = "https://twitter.com/interviewhelp"
+    linkedin = "https://linkedin.com/in/rsalota"
   
   # Homepage
   [params.homeInfoParams]
