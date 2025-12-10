@@ -1,7 +1,7 @@
 # For local development
 # baseURL = '/'
 # For GitHub Pages deployment
-baseURL = "https://interviewhelpio.github.io/apply4uhugoblog/"
+baseURL = "https://apply4u.io/blog"
 languageCode = 'en-us'
 title = ''
 theme = []
@@ -59,7 +59,7 @@ theme = []
   # Homepage
   [params.homeInfoParams]
     Title = "Hi there ð"
-    Content = "Welcome to my blog! I'll be sharing thoughts, tutorials, and insights about web development, technology, and more."
+    Content = "Welcome to my blog! I'll be sharing thoughts on current job market, interview prepration and general career trends"
   
   # Footer
   [params.footer]
