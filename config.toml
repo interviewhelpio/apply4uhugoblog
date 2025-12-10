@@ -3,7 +3,7 @@
 # For GitHub Pages deployment
 baseURL = "https://apply4u.io/blog"
 languageCode = 'en-us'
-title = ''
+title = 'Apply4u'
 theme = []
 
 # Enable goldmark for better markdown processing
